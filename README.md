@@ -2,7 +2,7 @@
 
 This is a simple weather application that allows you to search for and display weather information for a specific city. The app is built using HTML, CSS, and JavaScript.
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](https://github.com/Princepm02/Weather-App/assets/91951172/578c45e1-c6fd-4b3b-9d0b-48c03a17a678)
 
 ## Features
 
