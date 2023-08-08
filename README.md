@@ -2,9 +2,13 @@
 
 This is a simple weather application that allows you to search for and display weather information for a specific city. The app is built using HTML, CSS, and JavaScript.
 
-![Weather App Screenshot](https://github.com/Princepm02/Weather-App/assets/91951172/578c45e1-c6fd-4b3b-9d0b-48c03a17a678)
+![Weather App Screenshot - Bengaluru](https://github.com/Princepm02/Weather-App/assets/91951172/578c45e1-c6fd-4b3b-9d0b-48c03a17a678)
+![Weather App Screenshot - Delhi](https://github.com/Princepm02/Weather-App/assets/91951172/01310d1a-762e-417b-95a8-5cb803cf15c4)
+![Weather App Screenshot - Cherrapunji](https://github.com/Princepm02/Weather-App/assets/91951172/454a4486-6b4b-4b41-aff0-de8749d517a3)
+
 
 ## Features
+
 
 - Search for weather information for a specific city.
 - Display the current temperature, weather description, humidity, and wind speed.
